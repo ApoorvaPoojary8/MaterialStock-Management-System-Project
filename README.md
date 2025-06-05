@@ -23,7 +23,7 @@ A simple Java console application to manage inventory of materials and chemicals
 2. Compile the code using:  
    ```bash
    javac *.java
-
+   
 3. Run the program using:
 java Main
 
